@@ -1,0 +1,1 @@
+#define USE_LOCK_FREE_HASH_TABLE 1

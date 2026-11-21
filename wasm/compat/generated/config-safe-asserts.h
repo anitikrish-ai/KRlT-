@@ -1,0 +1,1 @@
+#define HIDE_SAFE_ASSERTS 1

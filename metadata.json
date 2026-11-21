@@ -1,0 +1,6 @@
+{
+  "name": "Krita WebAssembly",
+  "description": "Browser-native WebAssembly build of KDE Krita's pigment color engine, layered .kra store, undo stack, and WebGL 2 canvas powered by Qt 6 WebAssembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
